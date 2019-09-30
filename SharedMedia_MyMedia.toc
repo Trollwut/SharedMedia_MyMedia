@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: SharedMedia_MyMedia
+## Notes: Trollwut's Media Additions
+## Version: 0.1
+## Author: Trollwut
+
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+
+SharedMedia.lua
